@@ -31,22 +31,6 @@ The screenshot below is a preview of the Streamlit interface included with this 
 
 <p align="center"><em>ECG Insight — official test-set heartbeat explorer (demo screenshot).</em></p>
 
-### Replace the preview with your own screenshot
-
-1. Run the application locally using the instructions below.
-2. Capture a screenshot of the complete UI that you want to show on GitHub.
-3. Save or rename the screenshot to `app_demo.png`.
-4. Replace the existing file at `docs/images/app_demo.png` in your repository.
-5. Commit and push the replacement image. **No README edit is required** as long as the path and filename stay the same.
-
-The image is embedded using this standard GitHub Markdown syntax:
-
-```markdown
-<p align="center">
-  <img src="docs/images/app_demo.png" alt="ECG Insight Streamlit application preview" width="900">
-</p>
-```
-
 ## Model at a Glance
 
 | Component | Configuration |
