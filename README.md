@@ -25,15 +25,13 @@ The application provides three ways to interact with the model: browse an offici
 
 The screenshot below is a preview of the Streamlit interface included with this project. It shows the official test-row explorer. Replace the image file with your latest full application screenshot whenever you are ready; keep the same filename and path and the Markdown below will continue to work.
 
-<p align="center">
-  <img src="results/app_ui.PNG"
-       alt="ECG Insight Streamlit application interface"
-       width="900">
-</p>
+## Application Preview
 
-<p align="center">
-  <em>ECG Insight — Interactive Heartbeat Classification Dashboard.</em>
-</p>
+The screenshot below shows the Streamlit interface included with this project.
+
+![ECG Insight Streamlit Application](results/app_ui.png)
+
+*ECG Insight — Interactive Heartbeat Classification Dashboard.*
 
 ## Model at a Glance
 
