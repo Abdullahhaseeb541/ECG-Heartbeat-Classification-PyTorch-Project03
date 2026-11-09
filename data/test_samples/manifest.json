@@ -1,0 +1,31 @@
+{
+  "source_file": "data\\mitbih_test.csv",
+  "source_rows": 21892,
+  "seed": 42,
+  "column_format": "187 signal values followed by class label 0-4; no header",
+  "warning": "Both outputs are subsets of the official test set, not independent new data.",
+  "outputs": {
+    "balanced_500.csv": {
+      "rows": 500,
+      "columns": 188,
+      "class_counts": {
+        "N": 100,
+        "S": 100,
+        "V": 100,
+        "F": 100,
+        "Q": 100
+      }
+    },
+    "random_1000.csv": {
+      "rows": 1000,
+      "columns": 188,
+      "class_counts": {
+        "N": 831,
+        "S": 21,
+        "V": 67,
+        "F": 9,
+        "Q": 72
+      }
+    }
+  }
+}

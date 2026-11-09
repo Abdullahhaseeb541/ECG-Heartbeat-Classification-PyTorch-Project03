@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local dataset files (the assignment says not to commit the large CSVs)
+data/*.csv
+!data/.gitkeep
+
+# Generated arrays and transient files
+results/prepared_data.npz
+results/*.tmp
+.DS_Store
+Thumbs.db

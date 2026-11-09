@@ -1,0 +1,71 @@
+{
+  "test_rows": 21892,
+  "test_accuracy": 0.9778457884158597,
+  "balanced_accuracy": 0.8522528504695842,
+  "always_N_accuracy": 0.8276082587246483,
+  "per_class_accuracy": [
+    0.9932663649409427,
+    0.7032374100719424,
+    0.9316298342541437,
+    0.6604938271604939,
+    0.972636815920398
+  ],
+  "class_counts": [
+    18118,
+    556,
+    1448,
+    162,
+    1608
+  ],
+  "confusion_matrix": [
+    [
+      17996,
+      69,
+      34,
+      5,
+      14
+    ],
+    [
+      146,
+      391,
+      16,
+      0,
+      3
+    ],
+    [
+      80,
+      5,
+      1349,
+      12,
+      2
+    ],
+    [
+      36,
+      0,
+      19,
+      107,
+      0
+    ],
+    [
+      29,
+      5,
+      10,
+      0,
+      1564
+    ]
+  ],
+  "class_codes": [
+    "N",
+    "S",
+    "V",
+    "F",
+    "Q"
+  ],
+  "class_names": [
+    "N - Normal beat",
+    "S - Supraventricular ectopic beat",
+    "V - Ventricular ectopic beat",
+    "F - Fusion beat",
+    "Q - Unknown / paced beat"
+  ]
+}

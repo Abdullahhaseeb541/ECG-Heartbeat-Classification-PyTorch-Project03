@@ -1,0 +1,16 @@
+item,value
+training_rows_after_split,78799
+validation_rows,8755
+official_test_rows,21892
+training_signal_minimum,0.0
+training_signal_maximum,1.0
+original_training_file_class_N,72471
+original_training_file_class_S,2223
+original_training_file_class_V,5788
+original_training_file_class_F,641
+original_training_file_class_Q,6431
+official_test_file_class_N,18118
+official_test_file_class_S,556
+official_test_file_class_V,1448
+official_test_file_class_F,162
+official_test_file_class_Q,1608

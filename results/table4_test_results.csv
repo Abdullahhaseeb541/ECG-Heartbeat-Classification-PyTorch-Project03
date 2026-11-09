@@ -1,0 +1,9 @@
+metric,value
+test_accuracy,0.9778457884158597
+balanced_accuracy,0.8522528504695842
+always_N_accuracy,0.8276082587246483
+per_class_accuracy_N,0.9932663649409427
+per_class_accuracy_S,0.7032374100719424
+per_class_accuracy_V,0.9316298342541437
+per_class_accuracy_F,0.6604938271604939
+per_class_accuracy_Q,0.972636815920398

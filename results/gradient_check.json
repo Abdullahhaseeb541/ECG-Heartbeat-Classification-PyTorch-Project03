@@ -1,0 +1,7 @@
+{
+  "batch_size": 64,
+  "initial_loss_on_first_64_training_rows": 1.7413432598114014,
+  "max_absolute_difference_W3": 2.9802322387695312e-08,
+  "max_absolute_difference_b3": 5.960464477539063e-08,
+  "passes_1e-5_tolerance": true
+}

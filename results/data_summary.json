@@ -1,0 +1,74 @@
+{
+  "source": "Kaggle ECG Heartbeat Categorization Dataset (MIT-BIH files)",
+  "train_file_shape": [
+    87554,
+    188
+  ],
+  "test_file_shape": [
+    21892,
+    188
+  ],
+  "label_dtype_before_conversion": "float64",
+  "test_label_dtype_before_conversion": "float64",
+  "signal_minimum_training_file": 0.0,
+  "signal_maximum_training_file": 1.0,
+  "rows": {
+    "train": 78799,
+    "validation": 8755,
+    "test": 21892,
+    "original_training_file": 87554
+  },
+  "class_counts_original_train_file": {
+    "N": 72471,
+    "S": 2223,
+    "V": 5788,
+    "F": 641,
+    "Q": 6431
+  },
+  "class_counts_test_file": {
+    "N": 18118,
+    "S": 556,
+    "V": 1448,
+    "F": 162,
+    "Q": 1608
+  },
+  "matches_assignment_class_count_table": true,
+  "expected_class_counts_train_file": {
+    "N": 72471,
+    "S": 2223,
+    "V": 5788,
+    "F": 641,
+    "Q": 6431
+  },
+  "expected_class_counts_test_file": {
+    "N": 18118,
+    "S": 556,
+    "V": 1448,
+    "F": 162,
+    "Q": 1608
+  },
+  "class_counts_train_split": {
+    "N": 65227,
+    "S": 1988,
+    "V": 5217,
+    "F": 584,
+    "Q": 5783
+  },
+  "class_counts_validation_split": {
+    "N": 7244,
+    "S": 235,
+    "V": 571,
+    "F": 57,
+    "Q": 648
+  },
+  "validation_fraction": 0.1,
+  "validation_split_seed": 42,
+  "tensor_dtypes": {
+    "signals": "torch.float32",
+    "labels": "torch.int64",
+    "validation_signals": "torch.float32",
+    "test_labels": "torch.int64"
+  },
+  "signal_columns": 187,
+  "label_column_index": 187
+}

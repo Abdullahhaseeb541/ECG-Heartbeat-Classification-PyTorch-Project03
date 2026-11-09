@@ -1,0 +1,13 @@
+item,value
+trainable_parameters,32645
+initial_loss,1.7174336942561796
+gradient_check_W3_max_difference,2.9802322387695312e-08
+gradient_check_b3_max_difference,5.960464477539063e-08
+chosen_learning_rate,0.5
+best_epoch,25
+train_loss_at_best_epoch,0.05160017017881219
+validation_loss_at_best_epoch,0.06763677508711202
+train_accuracy_at_best_epoch,0.9847586898310893
+validation_accuracy_at_best_epoch,0.980468303826385
+training_time_seconds,239.84557770000538
+hardware,CPU

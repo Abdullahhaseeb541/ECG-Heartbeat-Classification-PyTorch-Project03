@@ -1,0 +1,6 @@
+class_code,class_name,test_examples,correct_predictions,per_class_accuracy
+N,N - Normal beat,18118,17996,0.9932663649409427
+S,S - Supraventricular ectopic beat,556,391,0.7032374100719424
+V,V - Ventricular ectopic beat,1448,1349,0.9316298342541437
+F,F - Fusion beat,162,107,0.6604938271604939
+Q,Q - Unknown / paced beat,1608,1564,0.972636815920398
